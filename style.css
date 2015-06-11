@@ -15,10 +15,7 @@
 	color: white;
 }
 
-body {
-	background: url("../images/triangles.jpg");
-	background-attachment: fixed;
-}
+
 
 #liseret, #page {
 	display: inline-block;
