@@ -55,14 +55,8 @@ em {
 	text-decoration: underline;
 }
 
-h1 {
-	font-size: 1.8em;
-	text-align: center;
-	padding: 5px;
-	border: 1px solid #ECC21B;
-	border-radius: 25px;
-	background: #ECC21B;
-}
+
+
 
 article {
 	display: inline-block;
